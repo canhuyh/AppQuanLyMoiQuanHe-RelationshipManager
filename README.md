@@ -16,8 +16,8 @@
 	- Cuối cùng, menu chính xuất hiện, và bạn có thể thực hiện các chức năng của chương trình như:
 	Thêm mối quan hệ, Xem danh sách mối quan hệ, Xem thôn tin chi tiết cảu mối quan hệ, Thê kế hoạch,....
 	
-	`Lưu ý: bạn cần kiểm tra số thứ tự của các mối quan hệ và các kế hoạch để dễ dàng trong việc xem chi tiết hoặc xóa
-	chúng.`
+	`Lưu ý: bạn cần kiểm tra số thứ tự của các mối quan hệ và các kế hoạch để dễ dàng trong việc xem chi tiết 
+	hoặc xóa chúng.`
 	
 ## ===CÁM ƠN BẠN ĐÃ SỬ DỤNG CHƯƠNG TRÌNH===
 ###### Mọi thắc mắc xin liên hệ facebook: https://www.facebook.com/canh.thanh.750983
